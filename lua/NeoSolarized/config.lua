@@ -9,7 +9,7 @@ local defaults = {
     -- Style to be applied to different syntax groups
     comments = { italic = true },
     keywords = { italic = true },
-    functions = { bold = true },
+    functions = { bold = false },
     variables = {},
     string = { italic = true },
     underline = true,
